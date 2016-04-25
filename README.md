@@ -5,6 +5,6 @@
  </head>
  <body>
  <h2>まっつぁん</h2>
- <img src=“https://raw.githubusercontent.com/ntasoon1216/2016web1-3/master/IMG_0215.JPG” alt=“まっつぁん” />
+ <img src=“” alt=“まっつぁん” />
  <h4>まっつぁんだよ</h4>
  </html>
